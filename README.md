@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science graduate specialized in software development, with a focus on web technologies and artificial intelligence. I have experience using Java as my primary language and solid knowledge in frontend development, enabling me to create effective and adaptable technological solutions. I am passionate about learning and exploring new opportunities that drive innovation.
+My name is Daniel Dans Abelenda. I specialize in software development with a focus on web technologies and artificial intelligence. I have extensive experience using Java as my primary language and possess solid knowledge in frontend development, allowing me to create efficient and adaptable technological solutions. I hold a Bachelor degree in Computer Science and am passionate about learning and exploring new opportunities that foster innovation.
 
 
 ## 🌐 Socials:
