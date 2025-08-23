@@ -11,3 +11,5 @@ My name is Daniel Dans Abelenda. I specialize in software development with a foc
 ![](https://github-readme-stats.vercel.app/api?username=DDansAbelenda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DDansAbelenda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DDansAbelenda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DDansAbelenda&layout=compact&langs_count=8)
+
