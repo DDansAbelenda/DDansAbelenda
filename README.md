@@ -1,5 +1,9 @@
 # 💫 About Me:
-My name is Daniel Dans Abelenda. I specialize in software development with a focus on web technologies and artificial intelligence. I have extensive experience using Java as my primary language and possess solid knowledge in frontend development, allowing me to create efficient and adaptable technological solutions. I hold a Bachelor degree in Computer Science and am passionate about learning and exploring new opportunities that foster innovation.
+**Full-Stack Developer** specializing in building AI-powered web solutions. I primarily work with **Java (Spring Boot)** on the backend and **React** on the frontend, while developing intelligent agents and AI assistants using **LangChain** and **Google ADK**.
+
+Throughout my career, I have built microservices with **FastAPI** and **Spring Boot**, business intelligence dashboards and web applications with **React**, chatbots, web scrapers, and mobile applications using **React Native**.
+
+I hold a **Bachelor's degree in Computer Science**, which provides me with a strong foundation for understanding the underlying problems behind software systems—not just writing code. I am passionate about continuous learning and exploring emerging technologies that drive innovation.
 
 
 ## 🌐 Socials:
